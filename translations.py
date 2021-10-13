@@ -2,7 +2,7 @@ from config import ASSISTANT_NAME
 from helpers.bot_utils import BOT_NAME, USERNAME
 
 
-START_TEXT = f"👋🏻 **Merhaba**, \n\n**{BOT_NAME}** \nTelegram Gruplarının Sesli Sohbetinde Canlıları, Radyoları, YouTube Videolarını ve Telegram Ses / Video Dosyalarını Yayınlayabilirim. Arkadaşlarınızla Grup Video Oynatıcısının Sinematik Görünümünün Tadını Çıkaralım 😉! \n\n**Teşekkürler❤️ By @TheEzelBoss!** 👑"
+START_TEXT = f"👋🏻 **Merhaba**, \n\n**{BOT_NAME}** \nTelegram Gruplarının Sesli Sohbetinde Canlıları, Radyoları, YouTube Videolarını ve Telegram Ses / Video Dosyalarını Yayınlayabilirim. Arkadaşlarınızla Grup Video Oynatıcısının Sinematik Görünümünün Tadını Çıkaralım 😉! \n\n** @TheEzelBoss!** 👑"
 HELP_TEXT = f"""
 🛠-- **Bot Kurulumu**:--
 
