@@ -41,8 +41,8 @@ async def nopm(client, message):
                 hide_via=True
             )
         except BotInlineDisabled:
-            print(f"[WARN] - Inline Mode for @{USERNAME} is not enabled. Enable from @Botfather to enable PM Permit !")
-            await message.reply_text(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@AsmSafone | @AsmSupport 👑</b>")
+            print(f"[WARN] - Satır İçi Mod @{USERNAME} Etkin Değil. PM İznini Etkinleştirmek İçin @TheEzelBoss'a Ulaşabilirsiniz!")
+            await message.reply_text(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@TheEzelBoss | @EzelHome 👑</b>")
         except Exception as e:
             print(e)
             pass
