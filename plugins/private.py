@@ -32,7 +32,7 @@ async def start(client, message):
                 InlineKeyboardButton("Nasıl Kullanılır?", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("📢 Kanal", url=f"https://t.me/t.me/ezelizm"),
+                InlineKeyboardButton("📢 Kanal", url=f"https://t.me/ezelizm"),
                 InlineKeyboardButton("👤 Geliştirici ", url=f"https://t.me/theezelboss"),
             ],
             [
@@ -92,7 +92,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("Nasıl Kullanılır?", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("📢 Kanal", url=f"https://t.me/t.me/ezelizm"),
+                InlineKeyboardButton("📢 Kanal", url=f"https:/t.me/ezelizm"),
                 InlineKeyboardButton("👤 Geliştirici ", url=f"https://t.me/theezelboss"),
             ],
             [
